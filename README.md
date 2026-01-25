@@ -29,3 +29,4 @@ CUDA 11.8
 conda activate pytorch
 python
 import torch
+torch.cuda.is_available()
