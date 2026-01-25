@@ -24,7 +24,7 @@ CUDA 11.8
 
 
 
-## my initiate cmd for anaconda:
+## my initiate cmd in anaconda prompt:
 ```python
 conda activate pytorch
 python
