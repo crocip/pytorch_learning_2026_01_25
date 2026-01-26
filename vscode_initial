@@ -1,0 +1,4 @@
+vscode terminal interact
+code:
+git config --global user.name "crocip"
+git config --global user.email 982025662@qq.com
