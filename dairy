@@ -4,3 +4,12 @@
 task for 01_26:
     1.download vscode, git(use vscode as environment).
     2.copy a file: machine learning scripts. run, and change some parameter(参数) to understand how it works.
+
+
+
+2026_01_26
+  seccessfully approach VScode, pull this pproject from github. creste PAT, SSH key, find SSH URL
+
+task for 01_27:
+  1.download jupyter extension for VScode
+  2.successfully run the "number recognition" code
