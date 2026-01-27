@@ -28,4 +28,4 @@ CUDA 11.8
 ```python
 conda activate pytorch
 python
-import pytorch
+import torch
