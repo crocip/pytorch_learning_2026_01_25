@@ -1,1 +1,7 @@
-1
+conda activate pytorch              ::import
+
+python                              ::use python grammar in the following
+import torch                        ::import
+torch.cuda.is_available()           ::test cuda
+
+exit()                              ::exit python environment
