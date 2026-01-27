@@ -19,14 +19,6 @@ environment:
 Anaconda3-2024.10-1-Windows-x86_64.exe
 
 
-
 CUDA 11.8
 
 
-
-## my initiate cmd in anaconda prompt:
-```python
-conda activate pytorch
-python
-import torch
-torch.cuda.is_available()
