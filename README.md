@@ -21,3 +21,6 @@ Anaconda3-2024.10-1-Windows-x86_64.exe
 
 CUDA 11.8
 
+
+```conda
+conda install matplotlib      ::matplotlib download, others in the tutorial video
