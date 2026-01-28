@@ -24,3 +24,5 @@ CUDA 11.8
 
 ```conda
 conda install matplotlib      ::matplotlib download, others in the tutorial video
+pip install tensorflow
+pip install seaborn
