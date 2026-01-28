@@ -29,7 +29,8 @@ pip install seaborn
 
 
 
-learning the first modle here:
+
+## learning the first modle here:
 
 
 https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb
