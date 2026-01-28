@@ -26,3 +26,10 @@ CUDA 11.8
 conda install matplotlib      ::matplotlib download, others in the tutorial video
 pip install tensorflow
 pip install seaborn
+
+
+
+learning the first modle here:
+
+
+https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb
