@@ -1,4 +1,4 @@
-2026_01_25
+//2026_01_25
   successfully create environment of anaconda, pytorch.
     
 task for 01_26:
@@ -7,7 +7,7 @@ task for 01_26:
 
 
 
-2026_01_26
+//2026_01_26
   seccessfully approach VScode, pull this pproject from github. creste PAT, SSH key, find SSH URL
 
 task for 01_27:
@@ -16,7 +16,7 @@ task for 01_27:
 
 
 
-2026_01_27
+//2026_01_27
   proxy went wrong for a while... I'm trying to fix it.
   An invalid proxy in the setting page! I solve the problem of not approaching VScode extensions!
   THANK FOR THIS: https://www.bilibili.com/video/BV1NHU6B3ETt/?vd_source=33f90d18a3bc742d467098ed95384d86
@@ -25,5 +25,15 @@ task for 01_27:
 task for 01_28:
   understand and run the first modle
 
-2026_01_28
+
+
+//2026_01_28
+  run the first modle
+
+task for 01_29:
+  optimaize a modle, or find and run the CV modle, preparing for FPGA
+
+
+
+//2026_01_29
   
