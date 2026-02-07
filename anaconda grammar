@@ -5,3 +5,5 @@ import torch                        ::import
 torch.cuda.is_available()           ::test cuda
 
 exit()                              ::exit python environment
+
+conda env list                      ::list env
