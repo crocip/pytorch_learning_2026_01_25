@@ -1,4 +1,7 @@
-conda activate pytorch              ::import
+conda create -n d2l-zh -y python=3.8 pip
+                                    ::-n means env_name, -y means yes, pip create environment
+
+conda activate d2l-zh              ::import
 
 python                              ::use python grammar in the following
 import torch                        ::import
