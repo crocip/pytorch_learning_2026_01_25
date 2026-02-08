@@ -1,0 +1,15 @@
+::MXnet___version
+
+from mxnet import np, npx
+from mxnet.gluon import nn
+npx.set_np()
+
+
+::pytorch___version
+import torch
+import torch.nn as nn
+import numpy as np  # 使用numpy或torch.tensor
+
+
+::d2l___env
+from d2l import torch as d2l
