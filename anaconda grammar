@@ -10,8 +10,10 @@ import torch                        ::import
                                     ::os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
                                     ::import torch
 
+torch.version.cuda                  ::cuda version search
 torch.cuda.is_available()           ::test cuda
 
 exit()                              ::exit python environment
 
 conda env list                      ::list env
+
