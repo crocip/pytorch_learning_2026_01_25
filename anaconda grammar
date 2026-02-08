@@ -5,6 +5,11 @@ conda activate d2l-zh              ::import
 
 python                              ::use python grammar in the following
 import torch                        ::import
+
+                                    ::if error, try: import os
+                                    ::os.environ['KMP_DUPLICATE_LIB_OK'] = 'TRUE'
+                                    ::import torch
+
 torch.cuda.is_available()           ::test cuda
 
 exit()                              ::exit python environment
